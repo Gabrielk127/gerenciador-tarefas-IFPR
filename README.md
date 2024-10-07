@@ -1,4 +1,4 @@
-###Gerenciador de Tarefas IFPR
+### Gerenciador de Tarefas IFPR
 
 Este é um gerenciador de tarefas desenvolvido em Python usando Tkinter para a interface gráfica e
 a biblioteca psutil para obter informações diretamente do sistema operacional. O projeto também possui
