@@ -21,10 +21,6 @@ um sistema de autenticação de usuários.
 - **Lista de Processos**: Visualiza processos ativos do sistema de maneira intuitiva.
 - **Monitoramento em Tempo Real**: Monitora uso de CPU e memória com atualizações ao vivo.
 
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
 ## Licença
 
 Este projeto está licenciado sob a licença MIT.
